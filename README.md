@@ -1,4 +1,4 @@
-<?php
+<php
   $diretorio = 'admin/';
   $extensao = '.php';
 
@@ -19,4 +19,4 @@
   {
     echo "Página não encontrada!";
   }
-?>
+>
